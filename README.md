@@ -18,21 +18,6 @@ An advanced tool for managing your Gmail account securely and efficiently using 
 
 ---
 
-## 📸 Screenshots | 截图 | Скриншоты
-
-![screenshot](assets/screenshot.png)
-
----
-
-## 🛠️ Installation | 安装 | Установка
-
-```bash
-git clone https://github.com/your-username/gmail-automation-assistant.git
-cd gmail-automation-assistant
-pip install -r requirements.txt
-```
-
----
 
 ## 🚀 Usage | 使用 | Использование
 
@@ -45,14 +30,6 @@ python src/main.py
 ```
 
 ---
-
-## 📄 Legal Notice | 法律声明 | Юридическое уведомление
-
-⚠️ This tool uses **official Gmail APIs** and follows Google’s terms of service.  
-⚠️ 此工具使用官方 Gmail API 并遵守 Google 的服务条款。  
-⚠️ Этот инструмент использует официальные Gmail API и соответствует условиям использования Google.
-
-**This is not a bot for creating Gmail accounts.**
 
 ---
 
@@ -68,6 +45,5 @@ We welcome contributions to improve translations and localization.
 
 ## 📬 Contact
 
-Created by [Your Name or Organization]  
 Telegram: [https://t.me/danirueaq](https://t.me/danirueaq)  
-GitHub: [your-github-url]
+
